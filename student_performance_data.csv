@@ -1,0 +1,101 @@
+student_id,name,age,major,math_score,science_score,english_score,attendance_rate,study_hours_per_week,gpa
+1,Student_1,24,Chemistry,65.1,77.6,94.1,79.2,5,3.52
+2,Student_2,21,Computer Science,72.8,57.0,83.3,99.4,12,3.19
+3,Student_3,22,Biology,62.3,54.3,74.3,75.1,39,2.94
+4,Student_4,24,Biology,62.7,61.0,72.5,90.0,19,2.82
+5,Student_5,20,Mathematics,91.3,57.7,88.4,75.7,26,2.7
+6,Student_6,22,Biology,,55.8,80.3,93.2,18,3.86
+7,Student_7,22,Mathematics,68.4,75.4,62.7,82.8,30,3.66
+8,Student_8,24,Computer Science,73.7,91.3,81.6,62.5,32,3.93
+9,Student_9,19,Chemistry,93.6,62.0,89.4,,27,2.25
+10,Student_10,20,Chemistry,53.6,49.7,86.6,65.4,18,3.46
+11,Student_11,24,Chemistry,80.1,77.9,71.7,60.5,28,3.88
+12,Student_12,20,Biology,104.6,52.8,64.6,63.0,6,2.36
+13,Student_13,20,Computer Science,104.5,55.8,74.7,87.7,30,2.13
+14,Student_14,22,Biology,45.9,75.9,110.5,81.4,18,3.48
+15,Student_15,21,Biology,63.6,68.0,62.6,90.0,11,3.15
+16,Student_16,20,Computer Science,,61.8,69.6,96.5,7,3.68
+17,Student_17,23,Computer Science,55.2,70.8,81.9,83.4,27,2.28
+18,Student_18,22,Computer Science,65.0,65.1,76.8,89.0,22,3.59
+19,Student_19,19,Computer Science,72.9,92.7,76.0,,39,2.4
+20,Student_20,21,Chemistry,96.0,61.9,98.2,75.1,19,2.33
+21,Student_21,23,Physics,74.3,59.0,69.5,69.6,29,2.33
+22,Student_22,23,Physics,78.3,64.5,77.9,68.2,32,3.63
+23,Student_23,19,Computer Science,82.7,65.0,80.0,70.1,14,3.33
+24,Student_24,21,Physics,83.2,77.1,70.0,71.0,21,3.05
+25,Student_25,22,Physics,75.4,46.1,63.6,68.3,26,2.72
+26,Student_26,18,Computer Science,,75.1,80.7,95.1,30,3.75
+27,Student_27,21,Physics,86.8,63.5,96.1,90.3,29,2.78
+28,Student_28,19,Biology,81.5,79.3,82.0,61.9,21,3.63
+29,Student_29,23,Mathematics,58.5,69.4,78.9,,17,2.88
+30,Student_30,22,Mathematics,64.8,76.2,78.8,60.9,24,2.75
+31,Student_31,21,Computer Science,88.3,65.3,75.4,79.9,29,2.93
+32,Student_32,18,Chemistry,84.1,75.3,89.8,79.0,8,2.6
+33,Student_33,18,Computer Science,64.2,90.0,72.9,93.3,14,3.5
+34,Student_34,20,Chemistry,71.0,61.1,64.4,72.3,7,3.01
+35,Student_35,20,Mathematics,72.8,68.7,62.2,92.7,22,2.46
+36,Student_36,24,Computer Science,,64.2,78.8,98.7,26,3.8
+37,Student_37,19,Biology,93.7,89.1,88.6,63.5,38,2.77
+38,Student_38,21,Physics,76.0,64.8,80.4,91.7,12,3.09
+39,Student_39,21,Chemistry,92.5,61.2,74.8,,23,3.81
+40,Student_40,24,Physics,88.1,63.1,82.6,79.2,10,3.25
+41,Student_41,23,Physics,78.1,68.4,79.9,76.8,30,2.23
+42,Student_42,23,Computer Science,53.3,60.5,86.3,91.4,38,3.88
+43,Student_43,24,Physics,59.6,65.6,91.3,85.6,10,3.26
+44,Student_44,23,Biology,86.1,71.9,68.5,92.2,37,2.67
+45,Student_45,20,Physics,49.3,68.6,54.6,96.1,26,2.28
+46,Student_46,21,Computer Science,,80.0,74.5,84.7,25,3.59
+47,Student_47,24,Biology,90.0,66.2,67.8,99.2,10,3.24
+48,Student_48,21,Mathematics,77.3,67.5,86.3,84.3,10,3.07
+49,Student_49,18,Physics,66.0,73.3,70.8,85.5,8,3.79
+50,Student_50,20,Computer Science,62.3,96.9,59.2,82.2,34,3.58
+51,Student_51,22,Mathematics,87.2,60.5,72.3,63.6,15,2.3
+52,Student_52,20,Mathematics,82.1,93.1,63.1,89.1,34,2.62
+53,Student_53,24,Chemistry,70.7,55.8,93.9,81.9,35,2.5
+54,Student_54,22,Biology,91.0,72.7,82.7,78.0,28,3.49
+55,Student_55,18,Physics,87.8,65.9,84.5,96.4,13,2.07
+56,Student_56,24,Computer Science,101.8,60.2,83.4,71.9,7,3.14
+57,Student_57,19,Chemistry,83.5,78.4,86.4,80.9,35,3.52
+58,Student_58,21,Biology,72.5,77.2,89.3,87.9,28,3.75
+59,Student_59,18,Chemistry,72.9,64.2,72.6,91.9,35,2.68
+60,Student_60,21,Biology,46.0,44.9,63.8,78.4,10,3.64
+61,Student_61,23,Biology,77.3,65.0,69.5,93.7,6,2.22
+62,Student_62,19,Physics,74.8,71.7,77.5,90.8,24,3.69
+63,Student_63,19,Biology,55.0,70.0,52.4,62.6,32,2.25
+64,Student_64,18,Chemistry,74.6,79.1,89.4,61.8,15,2.79
+65,Student_65,19,Biology,95.1,93.2,59.0,84.8,8,3.59
+66,Student_66,22,Physics,64.0,75.0,84.0,73.9,19,2.3
+67,Student_67,19,Physics,60.6,76.8,76.3,68.4,10,2.46
+68,Student_68,21,Chemistry,91.6,71.8,80.9,83.2,34,3.44
+69,Student_69,21,Mathematics,84.5,84.1,73.3,73.7,6,3.44
+70,Student_70,24,Mathematics,120.9,76.4,80.2,81.5,19,3.28
+71,Student_71,21,Biology,55.2,79.0,73.3,78.4,15,3.39
+72,Student_72,24,Computer Science,85.8,91.7,72.4,83.4,12,3.09
+73,Student_73,21,Biology,79.7,72.7,69.0,76.0,30,2.5
+74,Student_74,22,Chemistry,75.9,66.7,93.3,87.9,9,2.69
+75,Student_75,24,Chemistry,88.7,75.4,81.7,67.2,10,2.36
+76,Student_76,20,Chemistry,74.6,83.6,80.1,87.9,30,3.82
+77,Student_77,23,Chemistry,46.0,76.0,69.2,76.5,8,3.17
+78,Student_78,18,Chemistry,62.3,82.7,75.7,95.0,23,2.8
+79,Student_79,21,Physics,95.5,62.0,68.1,80.6,24,2.92
+80,Student_80,19,Mathematics,92.6,59.6,73.1,98.9,37,3.89
+81,Student_81,21,Chemistry,69.4,63.5,65.9,84.1,24,2.31
+82,Student_82,19,Computer Science,82.6,54.8,93.9,69.0,16,3.17
+83,Student_83,23,Computer Science,116.8,71.3,70.4,92.9,5,3.01
+84,Student_84,23,Computer Science,74.5,64.8,69.2,73.8,30,3.22
+85,Student_85,23,Computer Science,74.8,84.8,64.7,73.9,18,2.04
+86,Student_86,19,Physics,77.9,54.5,70.3,61.3,15,3.74
+87,Student_87,21,Computer Science,84.1,88.7,73.1,81.9,17,3.86
+88,Student_88,23,Chemistry,69.8,58.2,77.5,81.4,7,3.13
+89,Student_89,22,Biology,84.1,55.1,71.5,74.2,37,3.39
+90,Student_90,24,Computer Science,45.8,60.1,62.0,95.8,10,3.84
+91,Student_91,19,Physics,80.0,93.4,62.9,65.1,14,3.41
+92,Student_92,19,Physics,75.8,69.5,84.8,73.2,9,2.31
+93,Student_93,21,Computer Science,71.7,76.4,76.8,72.9,27,3.15
+94,Student_94,19,Biology,67.9,67.8,84.5,63.7,14,3.21
+95,Student_95,19,Computer Science,65.9,68.9,85.8,79.2,6,2.85
+96,Student_96,23,Physics,62.8,63.9,79.5,87.5,17,3.47
+97,Student_97,21,Mathematics,40.2,70.6,65.7,80.5,6,3.87
+98,Student_98,23,Chemistry,71.0,75.9,79.9,66.3,24,3.85
+99,Student_99,24,Physics,91.4,90.1,92.0,75.1,5,2.9
+100,Student_100,24,Computer Science,70.0,47.5,73.5,60.1,13,2.23
